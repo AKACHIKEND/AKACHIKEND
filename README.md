@@ -1,0 +1,3 @@
+- 👋 Creador de SpainStealer
+- 👀 SpainStealer Discord: https://discord.com/invite/KeDJsSk4p2
+- 🌱 Js
